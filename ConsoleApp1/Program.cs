@@ -70,9 +70,11 @@ namespace ConsoleApp1
                             Console.WriteLine("{0} is not exist!", msg);
                         }
                     }
+
                      
                 }
                 Thread.Sleep(300);
+
             }
         }
     }
