@@ -71,9 +71,6 @@ namespace ConsoleApp1
                         }
                     }
                      
-                    
-
-
                 }
                 Thread.Sleep(300);
             }
